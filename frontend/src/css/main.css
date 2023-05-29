@@ -1,0 +1,11 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+.login-form{
+    height: 100vh;
+}
+
+.login-form > div{
+    height: 100%;
+}

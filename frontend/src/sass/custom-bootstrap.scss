@@ -1,0 +1,19 @@
+/*
+
+    This is a Custom Bootstrap v5.2.3 build
+
+*/
+
+$primary: #3bbf7a;                  // Used for buttons, call to actions, anything that refers to something active
+// $primary: blue;                  // Used for buttons, call to actions, anything that refers to something active
+$secondary: #FFFFFF;                // Secondary background color
+$body-bg: #FAFAFA;                  // Main background color
+$body-color: #272A2F;               // Main text color
+$border-color: #E9E9E9;             // Accent color, mainly for borders or lines meant to separate or emphasize some element or content
+$text-color-secondary: #6F6F6F;     // Secondary text color
+
+
+
+@import "../../node_modules/bootstrap-icons/font/bootstrap-icons";
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
